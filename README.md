@@ -1,0 +1,1 @@
+This repository hosts simulation projects on federated learning, enabling model training across decentralized devices without data exchange. Currently, all data is locally available. Explore various implementations and experiments in federated learning here.
